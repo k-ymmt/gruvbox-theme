@@ -85,6 +85,16 @@
     },
     "CheckBoxMenuItem": {
       "background": "#32302f"
+    },
+    "ComboBox": {
+      "background": "#32302f",
+      "nonEditableBackground": "#32302f",
+      "ArrowButton": {
+        "nonEditableBackground": "#32302f",
+        "background": "#32302f",
+        "iconColor": "#d5c4a1",
+        "disabledIconColor": "7c6f64"
+      }
     }
   },
 
