@@ -1,0 +1,91 @@
+{
+  "name": "gruvbox",
+  "dark": true,
+  "author": "k-ymmt",
+  "editorScheme": "/gruvbox.xml",
+  "ui": {
+    "*": {
+      "background": "#32302f",
+      "foreground": "#d5c4a1",
+
+      "selectionBackground": "#fe8019",
+      "selectionForeground": "#ebdbb2",
+
+      "inactiveBackground": "#32302f",
+      "selectionBackgroundInactive": "#ce7029",
+      "inactiveForeground": "#928374",
+
+      "disabledBackground": "#7c6f64",
+      "disabledForeground": "#928374",
+      "disabledText": "#a89984",
+
+      "errorForeground": "#fb4934"
+    },
+    "Button": {
+      "default": {
+        "startBackground": "#689d6a",
+        "endBackground": "#689d6a",
+        "startBorderColor": "#8ec07c",
+        "endBorderColor": "#8ec07c"
+      },
+      "startBackground": "#fb4934",
+      "endBackground": "#fb4934",
+      "foreground": "#d5c4a1",
+      "startBorderColor": "#504945",
+      "endBorderColor": "#504945"
+    },
+    "EditorTabs": {
+      "selectedBackground": "#32302f",
+      "underlineColor": "#fe8019",
+      "borderColor": "#32302f",
+      "inactiveMaskColor": "#32302f"
+    },
+    "Borders": {
+      "color": "#fe8019",
+      "ContrastBorderColor": "#32302f"
+    },
+    "TabbedPane": {
+      "underlineColor": "#fe8019",
+      "background": "#32302f"
+    },
+    "ToolBar": {
+      "background": "#32302f"
+    },
+    "ToolWindow": {
+      "HeaderTab": {
+        "selectedBackground": "#504945",
+        "hoverInactiveBackground": "#7c6f64",
+        "selectedInactiveBackground": "#504945"
+      },
+      "Header": {
+        "borderColor": "#32302f",
+        "inactiveBackground": "#32302f",
+        "background": "#32302f"
+      },
+      "Button": {
+        "selectedBackground": "#282828",
+        "selectedForeground": "#bdae93"
+      }
+    },
+    "Tree": {
+      "selectionInactiveBackground": "#d65d0e",
+      "selectionBackground": "#fe8019",
+      "selectionForeground": "#ebdbb2",
+      "modifiedItemForeground": "#458588"
+    },
+    "List": {
+      "dropLineColor": "#fe8019",
+      "selectionBackground": "#fe8019"
+    },
+    "Table": {
+      "stripeColor": "#32302f"
+    },
+    "CheckBox": {
+      "background": "#32302f"
+    },
+    "CheckBoxMenuItem": {
+      "background": "#32302f"
+    }
+
+  }
+}
