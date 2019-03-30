@@ -86,6 +86,27 @@
     "CheckBoxMenuItem": {
       "background": "#32302f"
     }
+  },
 
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Background.Default.Dark": "#32302f",
+      "Checkbox.Border.Default.Dark": "#7c6f64",
+      "Checkbox.Foreground.Selected.Dark": "#ebdbb2",
+
+      "Actions.Green": "#b8bb26",
+      "Actions.Red": "#fb4934",
+      "Actions.Blue": "#83a598",
+      "Actions.Grey": "#a89984",
+      "Actions.GreyInline.Dark": "#928374",
+      "Actions.Yellow": "#fabd2f",
+
+      "Objects.Blue": "#83a598",
+      "Objects.Green": "#b8bb26",
+      "Objects.Yellow": "#fabd2f",
+      "Objects.Pink": "#b16286",
+      "Objects.Grey": "#a89984",
+      "Objects.Purple": "#d3869b"
+    }
   }
 }
