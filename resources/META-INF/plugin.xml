@@ -1,17 +1,14 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
-  <name>Plugin display name here</name>
+  <id>net.kymmt.gruvbox-theme</id>
+  <name>gruvbox theme</name>
   <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor url="https://github.com/k-ymmt">k-ymmt</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+      gruvbox UI Theme Plugin<br>
     ]]></description>
 
   <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
     ]]>
   </change-notes>
 
@@ -20,9 +17,7 @@
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->
-  <!-- uncomment to enable plugin in all products
   <depends>com.intellij.modules.lang</depends>
-  -->
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
@@ -32,5 +27,4 @@
   <actions>
     <!-- Add your actions here -->
   </actions>
-
 </idea-plugin>
