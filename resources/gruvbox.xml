@@ -1,2 +1,289 @@
 <scheme name="gruvbox" version="142" parent_scheme="Darcula">
+    <metaInfo>
+    </metaInfo>
+    <colors>
+        <option name="FOLDED_TEXT_BORDER_COLOR" value="504945"/>
+        <option name="GUTTER_BACKGROUND" value="32302f"/>
+        <option name="LINE_NUMBERS_COLOR" value="bdae93"/>
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ebdbb2"/>
+        <option name="RIGHT_MARGIN_COLOR" value="928374"/>
+        <option name="SEPARATOR_ABOVE_COLOR" value="fe8019"/>
+        <option name="SEPARATOR_BELOW_COLOR" value="fe8019"/>
+        <option name="TEARLINE_COLOR" value="fe8019"/>
+        <option name="VISUAL_INDENT_GUIDE" value=""/>
+    </colors>
+    <attributes>
+        <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
+            <value>
+                <option name="FOREGROUND" value="fabd2f"/>
+            </value>
+        </option>
+        <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
+            <value>
+                <option name="FOREGROUND" value="b8bb26"/>
+            </value>
+        </option>
+        <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
+            <value>
+                <option name="FOREGROUND" value="83a598"/>
+            </value>
+        </option>
+        <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+            <value>
+                <option name="FOREGROUND" value="458588"/>
+            </value>
+        </option>
+        <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
+            <value>
+                <option name="FOREGROUND" value="689d6a"/>
+            </value>
+        </option>
+        <option name="BAD_CHARACTER">
+            <value>
+                <option name="EFFECT_COLOR" value="cc241d"/>
+                <option name="EFFECT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="DEFAULT_BLOCK_COMMENT">
+            <value>
+                <option name="FOREGROUND" value="928374"/>
+            </value>
+        </option>
+        <option name="DEFAULT_COMMA">
+            <value>
+                <option name="FOREGROUND" value="fe8019"/>
+            </value>
+        </option>
+        <option name="DEFAULT_CONSTANT">
+            <value>
+                <option name="FOREGROUND" value="458588"/>
+                <option name="FONT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="DEFAULT_FUNCTION_CALL">
+            <value>
+                <option name="FOREGROUND" value="458588"/>
+            </value>
+        </option>
+        <option name="DEFAULT_GLOBAL_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="458588"/>
+            </value>
+        </option>
+        <option name="DEFAULT_INVALID_STRING_ESCAPE">
+            <value>
+                <option name="FOREGROUND" value="6a8759"/>
+                <option name="EFFECT_COLOR" value="cc241d"/>
+                <option name="EFFECT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="DEFAULT_KEYWORD">
+            <value>
+                <option name="FOREGROUND" value="fb4934"/>
+            </value>
+        </option>
+        <option name="DEFAULT_LOCAL_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="689d6a"/>
+            </value>
+        </option>
+        <option name="DEFAULT_METADATA">
+            <value>
+                <option name="FOREGROUND" value="98971a"/>
+            </value>
+        </option>
+        <option name="DEFAULT_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="689d6a"/>
+            </value>
+        </option>
+        <option name="DEFAULT_SEMICOLON">
+            <value>
+                <option name="FOREGROUND" value="fe8019"/>
+            </value>
+        </option>
+        <option name="DEFAULT_STRING">
+            <value>
+                <option name="FOREGROUND" value="98971a"/>
+            </value>
+        </option>
+        <option name="DEFAULT_VALID_STRING_ESCAPE">
+            <value>
+                <option name="FOREGROUND" value="d65d0e"/>
+            </value>
+        </option>
+        <option name="FOLDED_TEXT_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="7c6f64"/>
+                <option name="BACKGROUND" value="3c3836"/>
+            </value>
+        </option>
+        <option name="HTML_CODE">
+            <value/>
+        </option>
+        <option name="KOTLIN_LABEL">
+            <value/>
+        </option>
+        <option name="MATCHED_BRACE_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="3b514d"/>
+                <option name="FONT_TYPE" value="1"/>
+            </value>
+        </option>
+        <option name="OC.CLASS_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="fabd2f"/>
+            </value>
+        </option>
+        <option name="OC.CONDITIONALLY_NOT_COMPILED">
+            <value>
+                <option name="FOREGROUND" value="a89984"/>
+            </value>
+        </option>
+        <option name="OC.MESSAGE_ARGUMENT" baseAttributes="DEFAULT_FUNCTION_CALL"/>
+        <option name="OC.METHOD_DECLARATION">
+            <value>
+                <option name="FOREGROUND" value="83a598"/>
+            </value>
+        </option>
+        <option name="OC.PROPERTY">
+            <value>
+                <option name="FOREGROUND" value="8ec07c"/>
+            </value>
+        </option>
+        <option name="OC.PROTOCOL_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="d79921"/>
+            </value>
+        </option>
+        <option name="OC.STRUCT_LIKE">
+            <value>
+                <option name="FOREGROUND" value="fabd2f"/>
+            </value>
+        </option>
+        <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
+            <value>
+                <option name="FOREGROUND" value="d3869b"/>
+            </value>
+        </option>
+        <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
+            <value>
+                <option name="FOREGROUND" value="8ec07c"/>
+            </value>
+        </option>
+        <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+            <value>
+                <option name="FOREGROUND" value="83a598"/>
+            </value>
+        </option>
+        <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+            <value>
+                <option name="FOREGROUND" value="458588"/>
+            </value>
+        </option>
+        <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
+            <value>
+                <option name="FOREGROUND" value="689d6a"/>
+            </value>
+        </option>
+        <option name="SEARCH_RESULT_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="458588"/>
+                <option name="ERROR_STRIPE_COLOR" value="458588"/>
+            </value>
+        </option>
+        <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
+            <value>
+                <option name="FOREGROUND" value="83a598"/>
+            </value>
+        </option>
+        <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
+            <value>
+                <option name="FOREGROUND" value="b8bb26"/>
+            </value>
+        </option>
+        <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
+            <value>
+                <option name="FOREGROUND" value="d3869b"/>
+            </value>
+        </option>
+        <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
+            <value>
+                <option name="FOREGROUND" value="83a598"/>
+            </value>
+        </option>
+        <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
+            <value>
+                <option name="FOREGROUND" value="8ec07c"/>
+            </value>
+        </option>
+        <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
+            <value>
+                <option name="FOREGROUND" value="689d6a"/>
+            </value>
+        </option>
+        <option name="SWIFT_EXTERNAL_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="d3869b"/>
+            </value>
+        </option>
+        <option name="SWIFT_MODULE_NAME">
+            <value>
+                <option name="FOREGROUND" value="d79921"/>
+            </value>
+        </option>
+        <option name="SWIFT_NUMBER">
+            <value>
+                <option name="FOREGROUND" value="d3869b"/>
+            </value>
+        </option>
+        <option name="SWIFT_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="689d6a"/>
+            </value>
+        </option>
+        <option name="SWIFT_TYPE_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="d79921"/>
+            </value>
+        </option>
+        <option name="TEXT">
+            <value>
+                <option name="FOREGROUND" value="d5c4a1"/>
+                <option name="BACKGROUND" value="32302f"/>
+                <option name="EFFECT_TYPE" value="5"/>
+            </value>
+        </option>
+        <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="458588"/>
+                <option name="EFFECT_COLOR" value="83a598"/>
+                <option name="ERROR_STRIPE_COLOR" value="458588"/>
+            </value>
+        </option>
+        <option name="TODO_DEFAULT_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="8ec07c"/>
+                <option name="FONT_TYPE" value="2"/>
+                <option name="ERROR_STRIPE_COLOR" value="977ab"/>
+            </value>
+        </option>
+        <option name="TYPO">
+            <value>
+                <option name="EFFECT_COLOR" value="8ec07c"/>
+                <option name="EFFECT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="689d6a"/>
+                <option name="ERROR_STRIPE_COLOR" value="83a598"/>
+            </value>
+        </option>
+        <option name="WRONG_REFERENCES_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="cc241d"/>
+            </value>
+        </option>
+    </attributes>
 </scheme>
