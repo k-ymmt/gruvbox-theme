@@ -5,7 +5,7 @@
   "editorScheme": "/gruvbox.xml",
   "ui": {
     "*": {
-      "background": "#458588",
+      "background": "#32302f",
       "foreground": "#d5c4a1",
 
       "selectionBackground": "#fe8019",
@@ -100,9 +100,42 @@
 
     "WelcomeScreen": {
       "Projects": {
-        "selectionInactiveBackground": "#3c3836"
+        "selectionInactiveBackground": "#3c3836",
+        "selectionBackground": "#fe8019"
       },
-      "separatorColor": "#fe8019"
+      "separatorColor": "#fe8019",
+      "captionBackground": "#3c3836"
+    },
+    "ProgressBar": {
+      "background": "#3c3836",
+      "foreground": "#bdae93",
+      "selectionBackground": "#32302f",
+      "selectionForeground": "#fbf1c7",
+      "progressColor": "#fe8019",
+      "trackColor": "#d65d0e",
+      "indeterminateStartColor": "#d65d0e",
+      "indeterminateEndColor": "#fe8019",
+      "failedColor": "#cc241d",
+      "failedEndColor": "#fb4934",
+      "passedColor": "#98971a",
+      "passedEndColor": "#b8bb26"
+    },
+    "Popup": {
+      "Header": {
+        "activeBackground": "#3c3836",
+        "inactiveBackground": "#3c3836"
+      },
+      "Advertiser": {
+        "borderColor": "#fe8019"
+      },
+      "borderColor": "#fe8019",
+      "inactiveBorderColor": "#d65d0e",
+      "innerBorderColor": "#fe8019",
+      "paintBorder": "#fe8019"
+    },
+    "CompletionPopup": {
+      "infoForeground": "#665c54",
+      "selectionInfoForeground": "#3c3836"
     }
   },
 
