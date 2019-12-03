@@ -191,6 +191,32 @@
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
+        <option name="JS.GLOBAL_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="83a598" />
+            </value>
+        </option>
+        <option name="JS.GLOBAL_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="458588" />
+                <option name="FONT_TYPE" value="3" />
+            </value>
+        </option>
+        <option name="JS.INSTANCE_MEMBER_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="8ec07c" />
+            </value>
+        </option>
+        <option name="JS.LOCAL_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="689d6a" />
+            </value>
+        </option>
+        <option name="JS.REGEXP">
+            <value>
+                <option name="FOREGROUND" value="83a598" />
+            </value>
+        </option>
         <option name="OC.CLASS_REFERENCE">
             <value>
                 <option name="FOREGROUND" value="fabd2f" />
