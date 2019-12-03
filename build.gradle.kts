@@ -25,7 +25,7 @@ import kotlin.concurrent.thread
 
 plugins {
     kotlin("jvm") version "1.3.21"
-    id("org.jetbrains.intellij") version "0.4.7"
+    id("org.jetbrains.intellij") version "0.4.14"
 }
 
 repositories {
