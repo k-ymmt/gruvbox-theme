@@ -7,7 +7,7 @@
 ## Install
 1. Please download from [release page](https://github.com/k-ymmt/gruvbox-theme/releases).
 2. JetBrains IDEs(e.g. Intelli IDEA) Preferences > Plugins > ⚙ > Install plugin from Disk...
-![creenshot/install_from_disk.png](creenshot/install_from_disk.png)
+![screenshot/install_from_disk.png](screenshot/install_from_disk.png)
 3. Select downloaded file(.jar)
 
 ## Usage
