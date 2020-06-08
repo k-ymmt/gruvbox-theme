@@ -272,6 +272,9 @@
                 <option name="FOREGROUND" value="689d6a" />
             </value>
         </option>
+        <option name="RUBY_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
+        <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+        <option name="RUBY_NTH_REF" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="BACKGROUND" value="458588" />
